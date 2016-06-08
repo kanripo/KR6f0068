@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:20.023470
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 無量壽經連義述文贊
 #+PROPERTY: CBETA_ID T37n1748
 #+PROPERTY: ID KR6f0068
