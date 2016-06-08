@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:20.023470
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 無量壽經連義述文贊
 #+PROPERTY: CBETA_ID T37n1748
 #+PROPERTY: ID KR6f0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1748
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0068_T_000-0131c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0068_T_003-0158a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
 ¶
-
- 無量壽經連義述文贊卷下¶
+無量壽經連義述文贊卷下¶
 ¶
 釋璟興撰¶
 

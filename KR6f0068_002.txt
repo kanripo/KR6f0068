@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:19.974280
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 無量壽經連義述文贊
 #+PROPERTY: CBETA_ID T37n1748
 #+PROPERTY: ID KR6f0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1748
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0068_T_000-0131c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0068_T_002-0143a> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 無量壽經連義述文贊卷中¶
+無量壽經連義述文贊卷中¶
 ¶
 釋璟興撰¶
 
@@ -504,7 +503,7 @@
 轉即不可數故非也。雖復可數亦名劫故。亦¶
 違華嚴一百二十轉故。今即劫者是時之總¶
 名故。梵云阿僧祇此云無央數。王逸云央盡¶
-也。說文鞅頸靼也。非此字體也。又鞅所以制¶
+也。說文鞅頸靻也。非此字體也。又鞅所以制¶
 牛馬也。宜從央也。¶
 
 經曰錠光如來至次名處世者。述云此次敘¶
@@ -988,8 +987,7 @@
 經曰設我得佛至不取正覺者。述云此第七¶
 四辨無礙願也。¶
 
-經曰設我得佛至不取正覺。此第八□□□¶
-□願也。¶
+經曰設我得佛至不取正覺。此第八□□□□願也。¶
 
 經曰設我得佛至不取正覺者。述云第六攝¶
 佛土願有二。此初形色功德願也。¶
